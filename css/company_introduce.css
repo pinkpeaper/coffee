@@ -1,0 +1,15 @@
+.neirong>img{
+	margin-top: 22px;
+	width: 100%;
+}
+.neirong>p{
+	margin-top: 28px;
+	font-size: 12px;
+	line-height: 24px;
+	text-indent: 2em;
+	text-align: justify;
+	color: #666;
+}
+.neirong{
+	padding-bottom: 42px;
+}

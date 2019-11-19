@@ -1,0 +1,34 @@
+.neirong>ul{
+	padding-bottom: 40px;
+}
+.neirong>ul li{
+	padding: 30px 0;
+	border-bottom: 1px solid #f2f2f2;
+}
+.neirong>ul li img{
+	float: left;
+	width: 46px;
+	height: 50px;
+	margin: 0 10px;
+}
+.neirong>ul li div{
+	border-left: 1px solid #f2f2f2;
+	padding-left: 18px;
+	width: 892px;
+	float: right;
+}
+.neirong>ul li p{
+	color: #866961;
+	font-size: 16px;
+	width: 892px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.neirong>ul li p:first-of-type{
+	margin-bottom: 20px;
+}
+.neirong>ul li:last-of-type{
+	border: 0;
+}
+

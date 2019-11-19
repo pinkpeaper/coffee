@@ -1,0 +1,67 @@
+.w1000{
+	width: 1000px;
+	margin: 0 auto;
+}
+.contact>h1{
+	font-size: 16px;
+	color: #333;
+	font-weight: bold;
+	margin:38px 0 2px 0;
+}
+.contact>h1>div{
+	height: 9px;
+	border-left: 2px solid #866961;
+	display: inline-block;
+	vertical-align: bottom;
+	left: 0;
+	bottom: 0;
+}
+.contact>h2{
+	margin-bottom: 6px;
+}
+.contact>h2>span:first-child{
+	font-size: 12px;
+	color: #999;
+}
+.contact>h2>span:last-child{
+	float: right;
+	font-size: 14px;
+}
+.contact>h2>span:last-child a{
+	color: #333;
+}
+.contact>h2>span:last-child a:nth-of-type(2){
+	color: #999;
+}
+.contact>h2>span:last-child a:nth-of-type(3){
+	color: #999;
+}
+.contact>hr{
+	color: #d5d5d5;
+}
+.contact .tuwen{
+	padding: 25px 0;
+	vertical-align: top;
+}
+.contact .tuwen>img{
+	height: 505px;
+	width: 430px;
+	vertical-align: middle;
+}
+.contact .tuwen .wenzi{
+	display: inline-block;
+	width: 550px;
+	text-align: justify;
+	margin-left: 15px;
+	vertical-align: middle;
+	padding: 18px 0;
+}
+.contact .tuwen .wenzi P{
+	text-indent: 2em;
+	font-size: 14px;
+	line-height: 30px;
+	margin-bottom: 40px;
+}
+.contact .tuwen .wenzi P:last-of-type{
+	margin: 0;
+}

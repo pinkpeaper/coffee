@@ -1,0 +1,42 @@
+.shead{
+	padding-top: 38px;
+	position: relative;
+}
+.leftul li{
+	float: left;
+	margin-right: 36px;
+}
+.leftul li a h1{
+	font-size: 16px;
+	color: #333;
+	vertical-align: bottom;
+}
+.leftul li a h1 div{
+	height: 9px;
+	border-left: 2px solid #866961;
+	display: inline-block;
+	vertical-align: bottom;
+	
+}
+.leftul li a h2{
+	font-size: 12px;
+	color: #999;
+	padding-bottom: 3px;
+}
+.rightul{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	padding-bottom: 3px;
+}
+hr{
+	clear: both;
+	color: #d5d5d5;
+}
+.rightul li a{
+	font-size: 14px;
+	color: #999;
+}
+.rightul a:first-of-type,.rightul a:last-of-type{
+	color: #333;
+}

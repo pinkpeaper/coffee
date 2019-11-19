@@ -1,0 +1,38 @@
+.neirong>.clearfix{
+	margin-top: 28px;
+	margin-bottom: 44px;
+}
+.neirong>ul>li{
+	height: 100%;
+	vertical-align: top;
+}
+.neirong>ul>li>img{
+	padding: 5px;
+	vertical-align: top;
+}
+.neirong>ul>li>span{
+	vertical-align: top;
+	display: inline-block;
+	font-size: 18px;
+	text-align: center;
+	height: 100%;
+}
+.neirong>ul>li>span>div{
+	width: 0px;
+	height: 58px;
+	border-left: 1px solid #999;
+	margin: 10px auto;
+}
+.yearneirong{
+	font-size: 14px;
+	color: #666;
+	display: inline-block;
+	width: 90%;
+}
+.yearneirong span{
+	margin-right: 22px;
+	font-size: 12px;
+}
+.yearneirong>hr{
+	margin: 6px 0 30px 0;
+}
